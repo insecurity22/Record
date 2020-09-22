@@ -12,6 +12,3 @@ export default MyComponent;
 
 위 화살표 함수는 ES6 문법에서 함수를 표현하는 새로운 방식이다.<br>
 
-
-
-​	
