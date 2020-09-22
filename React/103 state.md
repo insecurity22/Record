@@ -89,7 +89,3 @@ class Counter extends Component {
 	...
 ```
 
-
-
-2. 함수형 컴포넌트
-
