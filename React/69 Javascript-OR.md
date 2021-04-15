@@ -21,4 +21,4 @@ const name = undefined;
 return <div>{name || 'React'}</div>;
 ```
 
-JSX 내부에서 렌더링하는 건 가능
+이런식으로 JSX 내부에서 렌더링하는 건 가능
