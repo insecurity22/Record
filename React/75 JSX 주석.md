@@ -2,7 +2,7 @@
 ...
 
 function App() {
-    const name = 'React'; // 주석
+    const name = 'React';
     return (
     	<>
     		{/* 주석 */}
