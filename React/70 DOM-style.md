@@ -4,7 +4,7 @@
 
 또한 스타일 이름 중 background-color처럼 - 문자가 포함되는 이름이 있을 경우,
 
-- 문자를 없애고 카멜 표기법으로 작성해야한다.
+&2d; 문자를 없애고 카멜 표기법으로 작성해야한다.
 
 ```react
 import React from 'react';
