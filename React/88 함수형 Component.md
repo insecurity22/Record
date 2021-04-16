@@ -59,4 +59,4 @@ function WhiteDog() {
 const whiteDog = new WhiteDog();
 whiteDog.back(); // 흰둥이: 멍멍!
 ```
-
+- 일반 함수는 자신이 종속된 객체를 this로 가리키며, 화살표 함수는 자신이 종속된 인스턴스를 가리킵니다.
