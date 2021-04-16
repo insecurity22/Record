@@ -26,6 +26,17 @@ setTimeout(() => {
 }, 1000)
 ```
 
+```
+function twice(value) {
+	return value * 2;
+}
+
+const triple = (value) => value * 3;
+// 따로 { }를 열어주지 않으면 연산한 값을 그대로 반환한다는 의미
+```
+
+
+
 
 
 2. 예제(가리키고 있는 this 값이 다름)
@@ -60,3 +71,4 @@ const whiteDog = new WhiteDog();
 whiteDog.back(); // 흰둥이: 멍멍!
 ```
 - 일반 함수는 자신이 종속된 객체를 this로 가리키며, 화살표 함수는 자신이 종속된 인스턴스를 가리킵니다.
+
