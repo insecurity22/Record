@@ -41,7 +41,7 @@ export default App;
 
 
 
-​	2-1) 조건
+​	1-1) 조건
 
 - render 함수가 꼭 있어야함
 - 그 안에서 보여주어야 할 JSX를 반환해야함
